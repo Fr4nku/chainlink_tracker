@@ -1,6 +1,6 @@
 # chainlink_tracker
 
-![Uploading 9f3nbc5bqml71.png…]()
+![9f3nbc5bqml71](https://user-images.githubusercontent.com/69079343/132770880-8e990f16-0ebc-4cce-823f-51e34028a692.png)
 
 My first python project!
 Checks the price, 24h change, and 7d change of chainlink (every 5min).
